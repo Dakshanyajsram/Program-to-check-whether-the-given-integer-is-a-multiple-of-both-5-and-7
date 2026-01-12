@@ -1,0 +1,1 @@
+# Program-to-check-whether-the-given-integer-is-a-multiple-of-both-5-and-7
